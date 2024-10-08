@@ -3,7 +3,11 @@
  * User: Qball
  * Copyright: Dave Davenport
  */
- /*#1b182c															*/
+
+
+ /*
+Credit to the guy from the comment above this; all I did was change a few colors but he basically made this entire thing
+*/
 @theme "/dev/null"
 * {
     selected-normal-foreground:  rgba ( 2, 20, 63, 100 % );
